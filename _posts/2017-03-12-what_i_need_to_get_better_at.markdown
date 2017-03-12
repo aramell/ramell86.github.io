@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What I need to get better at..."
+title:  "What I need to get better at...."
 date:   2017-03-12 10:11:02 -0400
 ---
 
