@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: andrew.ramell@gmail.com
 copyright_name: ramell86
 description: > # this means to ignore newlines until "baseurl:"
-  My Trials and Tribulations Learning to Code
+  My journey learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ramell86
 github_username:  ramell86
