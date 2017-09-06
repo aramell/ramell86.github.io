@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The magic of Rails layouts "
-date:   2017-09-06 01:49:04 +0000
+date:   2017-09-05 21:49:05 -0400
 ---
 
 
