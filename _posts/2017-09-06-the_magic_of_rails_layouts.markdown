@@ -30,5 +30,5 @@ Rails.application.routes.draw do
 get 'index', to: 'posts#index'
 	```
 
-You would pull up the index action through the posts/index view.
+It would pull up the index action through the posts/index view.
 
