@@ -12,7 +12,6 @@ Initially that was a pain but I am so glad that I did that since it forced me to
 Onto the actual project -
 
 I added Jquery to my rails app ["Team Player"](https://github.com/ramell86/team-player) that I worked out a few months ago.  This made the app even more "real world" since the page doesn't need to refresh for the basic functions and important features can all be done on the initial  home screen.   It of course still could use to more CSS /fonts and other touch ups but I am pretty happy with how its going so far with the functionality. 
-<blockquote class="imgur-embed-pub" lang="en" data-id="kEwGpAt"><a href="//imgur.com/kEwGpAt">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 One of the areas I spent a good amount of time (and struggled) was displaying each team individually when you clicked on it.  I started out using the handlebars template and it works partially.  The problem I found and never really solved was that I needed to iterated not only over the team for all the games that it played but also the teams sports.  For some reason I was not able to get all of that sorted out easily with handlebars so I turned to the template literals in ES6 and it worked pretty easily.
 ```
