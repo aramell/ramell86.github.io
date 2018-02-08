@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React/Redux App"
-date:       2018-02-08 16:15:35 +0000
+date:       2018-02-08 11:15:36 -0500
 permalink:  react_redux_app
 ---
 
